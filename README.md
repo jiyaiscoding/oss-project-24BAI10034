@@ -5,11 +5,11 @@
 
 ## Project Overview
 
-This repository contains my Open Source Software audit project completed as part of the Open Source Software course at VIT Bhopal. The objective of this project is to explore how open-source software works within a Linux environment and to understand the philosophy, ecosystem, and technical structure behind widely used FOSS tools.
+This repository contains my Open Source Software audit project completed as part of the Open Source Software course at VIT Bhopal. The project's objective was to explore how open-source software works within a Linux environment and to understand the philosophy, ecosystem, and technical structure behind widely used FOSS tools.
 
-For this audit, I selected Python as the primary open-source software. Python is one of the most widely used programming languages in the world and is known for its readability, simplicity, and strong open-source community support.
+I selected Python as the primary open-source software for this audit. Python is one of the most widely used programming languages in the world and is known for its readability, simplicity, and strong open-source community support.
 
-Through this project, I examined Python's presence in a Linux system and implemented a set of shell scripts to analyze system information, software installation, file permissions, log files, and open-source philosophy. Selected Open Source Software
+I examined Python's presence in a Linux system and implemented a set of shell scripts to analyze system information, software installation, file permissions, log files, and open-source philosophy though this project. 
 
 ## Software Name: Python
 ## Category: Programming Language 
@@ -23,11 +23,11 @@ Python was created by Guido van Rossum and first released in 1991. It was design
 - Web development 
 - Automation and scripting
 
-Because Python is open-source, developers around the world can contribute to its development and improve its ecosystem.
+Around the world, developers can contribute to the language's development and improve it becuase python is an opensource langauge.
 
 ## Project Objectives
 The main objectives of this project were: 
-- To understand the philosophy behind open-source software. 
+- To understand the concepts behind open-source software. 
 - To analyze how an open-source tool exists and operates inside a Linux environment. 
 - To gain hands-on experience with Linux shell scripting. 
 - To inspect system information, packages, logs, and directories using automation scripts. 
@@ -35,7 +35,7 @@ The main objectives of this project were:
 
 ## Repository Structure
 
-This repository contains several shell scripts that perform different auditing and analysis tasks. 
+This repository contains several shell scripts that perform different auditing and analysis tasksas suggested in the problem statement. 
 - README.md 
 - script1_system_identity.sh 
 - script2_package_inspector.sh 
@@ -105,6 +105,7 @@ Based on the answers, the script generates a short Open Source Manifesto and sav
 This script highlights the collaborative and philosophical aspect of open-source software.
 
 ## To Run the Scripts- 
+These are the steps that can be followed to run the shells-
 ### Step1  
 Make the scripts executable: chmod +x *.sh
 
@@ -119,7 +120,7 @@ Run any script using: ./script_name.sh
 
 ## Key Learnings
 
-Working on this project helped me understand several important concepts, including:
+Working on this project, I understood several important concepts. They include:
 
 - The structure of Linux file systems 
 - How open-source software is installed and maintained 
@@ -131,5 +132,6 @@ It also improved my familiarity with GitHub and version control, which are essen
 
 ## Conclusion
 
-Open-source software plays a vital role in today's technology ecosystem. Projects like Python demonstrate how collaborative development can produce powerful tools used across industries.
+Open-source software plays a vital role in today's tech-system. Projects like Python, which is a commonly used computer language, demonstrate how collaborative development can produce powerful tools used across industries.
 This audit project provided practical experience with Linux systems, scripting, and open-source principles. It also highlighted the transparency and flexibility that make open-source software so valuable.
+
