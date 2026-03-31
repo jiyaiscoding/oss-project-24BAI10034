@@ -1,6 +1,6 @@
 # Open Source Software Audit Project
 
-## Student: Jiya Arora  
+## Name of Student: Jiya Arora  
 ## Registration No: 24BAI10034
 
 ## Project Overview
