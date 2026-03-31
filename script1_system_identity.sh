@@ -28,4 +28,4 @@ echo "System Uptime   : $UPTIME"
 echo "Current Date    : $DATE"
 
 echo ""
-echo "Linux is distributed under the GNU General Public License (GPL).
+echo "Linux is distributed under the GNU General Public License (GPL)."
